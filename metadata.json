@@ -1,0 +1,8 @@
+{
+  "name": "RFAI - Centro Clínico Equilibrar",
+  "description": "Plataforma terapéutica avanzada de Reprogramación Focalizada de Alto Impacto. Lujo minimalista y eficiencia clínica.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
